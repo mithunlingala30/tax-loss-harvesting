@@ -1,0 +1,122 @@
+[
+  {
+    "id": "btc",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "color": "#F7931A",
+    "quantity": 0.842,
+    "avgBuyPrice": 5432000,
+    "currentPrice": 5810000,
+    "term": "long"
+  },
+  {
+    "id": "eth",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "color": "#627EEA",
+    "quantity": 4.15,
+    "avgBuyPrice": 268000,
+    "currentPrice": 214500,
+    "term": "long"
+  },
+  {
+    "id": "sol",
+    "name": "Solana",
+    "symbol": "SOL",
+    "color": "#14F195",
+    "quantity": 62.4,
+    "avgBuyPrice": 14800,
+    "currentPrice": 11200,
+    "term": "short"
+  },
+  {
+    "id": "matic",
+    "name": "Polygon",
+    "symbol": "MATIC",
+    "color": "#8247E5",
+    "quantity": 3200,
+    "avgBuyPrice": 68,
+    "currentPrice": 41,
+    "term": "short"
+  },
+  {
+    "id": "ada",
+    "name": "Cardano",
+    "symbol": "ADA",
+    "color": "#0033AD",
+    "quantity": 5400,
+    "avgBuyPrice": 42,
+    "currentPrice": 58,
+    "term": "short"
+  },
+  {
+    "id": "dot",
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "color": "#E6007A",
+    "quantity": 210,
+    "avgBuyPrice": 620,
+    "currentPrice": 480,
+    "term": "long"
+  },
+  {
+    "id": "doge",
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "color": "#C2A633",
+    "quantity": 18500,
+    "avgBuyPrice": 9.8,
+    "currentPrice": 13.4,
+    "term": "short"
+  },
+  {
+    "id": "avax",
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "color": "#E84142",
+    "quantity": 48,
+    "avgBuyPrice": 3100,
+    "currentPrice": 2380,
+    "term": "long"
+  },
+  {
+    "id": "link",
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "color": "#2A5ADA",
+    "quantity": 130,
+    "avgBuyPrice": 1180,
+    "currentPrice": 940,
+    "term": "short"
+  },
+  {
+    "id": "xrp",
+    "name": "XRP",
+    "symbol": "XRP",
+    "color": "#23292F",
+    "quantity": 6800,
+    "avgBuyPrice": 46,
+    "currentPrice": 52,
+    "term": "long"
+  },
+  {
+    "id": "uni",
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "color": "#FF007A",
+    "quantity": 340,
+    "avgBuyPrice": 720,
+    "currentPrice": 505,
+    "term": "long"
+  },
+  {
+    "id": "atom",
+    "name": "Cosmos",
+    "symbol": "ATOM",
+    "color": "#2E3148",
+    "quantity": 260,
+    "avgBuyPrice": 890,
+    "currentPrice": 610,
+    "term": "short"
+  }
+]

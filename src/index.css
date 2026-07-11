@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: "Inter", sans-serif;
+  }
+  body {
+    @apply bg-sand-50 text-ink-900;
+  }
+  ::selection {
+    @apply bg-mint-200 text-ink-900;
+  }
+}
+
+@layer utilities {
+  .font-display {
+    font-family: "Space Grotesk", sans-serif;
+  }
+  .font-mono-num {
+    font-family: "IBM Plex Mono", monospace;
+    font-variant-numeric: tabular-nums;
+  }
+  .scrollbar-thin::-webkit-scrollbar {
+    height: 6px;
+    width: 6px;
+  }
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background-color: rgba(15, 27, 23, 0.18);
+    border-radius: 999px;
+  }
+}
